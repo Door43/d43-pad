@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pad:home|Door43 (pad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pad|d43-pad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pad/archive/master.zip|d43-pad.zip]]
+
+**Recent Changes**
+{{changes>ns = pad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pad|Ethnologue data]]
+
